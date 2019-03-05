@@ -1,0 +1,84 @@
+Base distance: 220.0
+
+ SUMMARY (Distance, Route) :
+17.0 : St25 - St23 - St24 - St31 - 
+16.0 : St25 - St24 - St31 - St26 - 
+17.0 : St25 - St24 - St23 - St31 - 
+17.0 : St25 - St23 - St24 - St31 - 
+18.0 : St24 - St23 - St31 - St8 - 
+17.0 : St31 - St23 - St24 - St8 - 
+17.0 : St25 - St23 - St24 - St31 - 
+11.0 : St26 - 
+18.0 : St23 - 
+11.0 : St26 - 
+11.0 : St26 - 
+14.0 : St15 - St12 - St10 - 
+13.0 : St12 - St10 - St9 - 
+14.0 : St15 - St12 - St10 - 
+13.0 : St15 - St12 - St9 - 
+14.0 : St15 - St12 - St10 - 
+14.0 : St15 - St10 - St8 - 
+14.0 : St15 - St12 - St10 - 
+14.0 : St15 - St12 - St10 - 
+14.0 : St15 - St10 - St13 - 
+14.0 : St15 - St12 - St10 - 
+14.0 : St12 - St10 - St38 - 
+14.0 : St15 - St12 - St10 - 
+14.0 : St15 - St23 - St10 - 
+14.0 : St15 - St12 - St10 - 
+10.0 : St8 - St27 - 
+13.0 : St27 - St38 - 
+10.0 : St8 - St27 - 
+16.0 : St27 - St12 - 
+15.0 : St12 - St27 - 
+10.0 : St8 - St27 - 
+10.0 : St8 - St27 - 
+18.0 : St27 - St25 - 
+17.0 : St25 - St27 - 
+10.0 : St8 - St27 - 
+12.0 : St9 - 
+8.0 : St38 - 
+8.0 : St38 - 
+11.0 : St8 - 
+8.0 : St38 - 
+8.0 : St38 - 
+19.0 : St15 - 
+8.0 : St38 - 
+11.0 : St38 - St13 - 
+16.0 : St13 - St9 - 
+13.0 : St9 - St13 - 
+13.0 : St9 - St13 - 
+23.0 : St13 - St15 - 
+19.0 : St15 - St13 - 
+16.0 : St13 - St9 - 
+13.0 : St9 - St13 - 
+19.0 : St13 - St10 - 
+15.0 : St10 - St13 - 
+16.0 : St13 - St9 - 
+13.0 : St9 - St13 - 
+13.0 : St9 - St13 - 
+17.0 : St9 - St12 - 
+16.0 : St12 - St9 - 
+13.0 : St9 - St13 - 
+33.0 : St23 - St24 - St25 - St15 - St12 - St10 - St26 - St27 - St8 - St9 - Fakhri - St31 - St13 - St38 - 
+31.0 : St23 - St24 - St25 - St15 - St12 - St10 - St26 - St27 - St8 - St9 - St31 - Fakhri - St13 - St38 - 
+30.0 : St31 - St15 - St9 - St27 - St26 - Fakhri - St25 - St23 - St24 - St12 - St10 - St8 - St38 - St13 - 
+29.0 : St31 - St15 - St10 - St27 - St26 - Fakhri - St25 - St23 - St24 - St12 - St9 - St8 - St38 - St13 - 
+28.0 : St31 - St24 - St23 - St15 - St25 - Fakhri - St27 - St8 - St9 - St12 - St10 - St26 - St13 - St38 - 
+27.0 : St31 - St25 - St15 - St24 - St23 - St12 - St10 - St27 - St26 - Fakhri - St8 - St9 - St38 - St13 - 
+26.0 : St31 - St25 - St15 - St24 - St23 - St12 - St10 - St27 - St26 - Fakhri - St9 - St8 - St38 - St13 - 
+25.0 : St31 - St25 - St15 - St24 - St23 - St12 - St10 - Fakhri - St26 - St27 - St9 - St8 - St38 - St13 - 
+32.0 : St24 - St25 - St15 - St12 - St12 - St10 - St27 - St26 - St9 - St8 - Fakhri - St31 - St38 - St13 - 
+31.0 : St31 - St25 - St15 - St12 - St12 - St10 - St27 - St26 - St9 - St8 - Fakhri - St24 - St38 - St13 - 
+30.0 : St31 - St25 - St15 - St24 - St12 - St10 - St27 - St26 - St9 - St8 - Fakhri - St12 - St38 - St13 - 
+29.0 : St31 - St25 - St15 - St24 - St12 - St10 - Fakhri - St26 - St9 - St8 - St27 - St12 - St38 - St13 - 
+27.0 : St31 - St25 - St15 - St24 - St12 - St12 - Fakhri - St26 - St9 - St8 - St27 - St10 - St38 - St13 - 
+26.0 : St31 - St15 - St24 - St25 - St12 - St12 - St10 - Fakhri - St26 - St9 - St8 - St27 - St13 - St38 - 
+25.0 : St31 - St15 - St25 - St24 - St12 - St12 - St10 - St27 - Fakhri - St26 - St9 - St8 - St38 - St13 - 
+32.0 : St24 - St25 - St15 - St23 - St12 - St10 - St9 - St8 - St27 - St26 - Fakhri - St31 - St13 - St38 - 
+31.0 : St24 - St25 - St15 - St23 - St12 - St10 - St9 - St8 - St27 - St26 - St31 - Fakhri - St13 - St38 - 
+29.0 : St31 - St25 - St15 - St24 - St23 - Fakhri - St12 - St10 - St26 - St9 - St8 - St27 - St38 - St13 - 
+28.0 : St31 - St25 - St15 - St24 - St23 - St10 - St12 - Fakhri - St26 - St9 - St8 - St27 - St38 - St13 - 
+27.0 : St31 - St23 - St15 - St24 - St25 - St10 - St12 - Fakhri - St26 - St9 - St8 - St27 - St38 - St13 - 
+26.0 : St31 - St23 - St15 - St24 - St25 - St10 - St12 - Fakhri - St26 - St9 - St27 - St8 - St38 - St13 - 
+25.0 : St31 - St23 - St15 - St24 - St25 - St12 - St10 - Fakhri - St26 - St9 - St27 - St8 - St38 - St13 - 

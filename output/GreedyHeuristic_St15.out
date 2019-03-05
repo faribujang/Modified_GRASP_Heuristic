@@ -1,0 +1,199 @@
+Base distance: 87.0
+
+ SUMMARY (Distance, Route) :
+11.0 : St37 - St29 - St14 - St3 - 
+10.0 : St37 - St3 - St14 - St29 - 
+13.0 : St37 - St14 - St29 - St9 - 
+12.0 : St9 - St14 - St29 - St37 - 
+11.0 : St37 - St29 - St9 - St14 - 
+12.0 : St37 - St14 - St29 - St3 - 
+11.0 : St37 - St29 - St14 - St3 - 
+10.0 : St37 - St3 - St14 - St29 - 
+18.0 : St37 - St14 - St29 - St22 - 
+17.0 : St37 - St29 - St14 - St22 - 
+16.0 : St22 - St29 - St14 - St37 - 
+15.0 : St22 - St37 - St14 - St29 - 
+12.0 : St37 - St14 - St29 - St3 - 
+11.0 : St37 - St29 - St14 - St3 - 
+10.0 : St37 - St3 - St14 - St29 - 
+20.0 : St14 - St3 - St29 - St22 - 
+18.0 : St14 - St29 - St3 - St22 - 
+17.0 : St22 - St29 - St3 - St14 - 
+16.0 : St22 - St14 - St3 - St29 - 
+14.0 : St22 - St3 - St14 - St29 - 
+10.0 : St37 - St14 - St3 - St29 - 
+20.0 : St14 - St3 - St29 - St22 - 
+18.0 : St14 - St29 - St3 - St22 - 
+17.0 : St22 - St29 - St3 - St14 - 
+16.0 : St22 - St14 - St3 - St29 - 
+14.0 : St22 - St3 - St14 - St29 - 
+10.0 : St37 - St14 - St3 - St29 - 
+10.0 : St14 - St3 - St8 - St29 - 
+9.0 : St8 - St3 - St14 - St29 - 
+10.0 : St37 - St14 - St3 - St29 - 
+11.0 : St37 - St14 - St3 - St7 - 
+10.0 : St37 - St14 - St3 - St29 - 
+11.0 : St37 - St14 - St3 - St9 - 
+9.0 : St37 - St9 - St3 - St14 - 
+9.0 : St37 - St9 - St3 - St14 - 
+10.0 : St14 - St3 - St9 - St29 - 
+11.0 : St37 - St14 - St3 - St9 - 
+9.0 : St37 - St9 - St3 - St14 - 
+11.0 : St37 - St9 - St3 - St7 - 
+11.0 : St37 - St9 - St3 - St7 - 
+12.0 : St37 - St29 - St3 - St7 - 
+12.0 : St37 - St3 - St9 - St7 - 
+11.0 : St37 - St9 - St3 - St7 - 
+12.0 : St9 - St3 - St30 - St7 - 
+11.0 : St9 - St30 - St3 - St7 - 
+11.0 : St37 - St9 - St3 - St7 - 
+21.0 : St37 - St3 - St7 - St22 - 
+20.0 : St37 - St7 - St3 - St22 - 
+19.0 : St22 - St7 - St3 - St37 - 
+18.0 : St22 - St37 - St3 - St7 - 
+16.0 : St37 - St22 - St3 - St7 - 
+12.0 : St37 - St3 - St9 - St7 - 
+11.0 : St37 - St9 - St3 - St7 - 
+11.0 : St37 - St29 - St9 - St3 - 
+10.0 : St37 - St3 - St9 - St29 - 
+12.0 : St37 - St3 - St9 - St7 - 
+11.0 : St37 - St9 - St3 - St7 - 
+10.0 : St8 - St9 - St3 - St7 - 
+10.0 : St8 - St9 - St3 - St7 - 
+11.0 : St8 - St9 - St30 - St7 - 
+10.0 : St8 - St9 - St3 - St7 - 
+20.0 : St8 - St3 - St7 - St22 - 
+19.0 : St22 - St3 - St7 - St8 - 
+16.0 : St22 - St3 - St8 - St7 - 
+15.0 : St22 - St8 - St3 - St7 - 
+11.0 : St8 - St3 - St9 - St7 - 
+10.0 : St8 - St9 - St3 - St7 - 
+9.0 : St8 - St9 - St3 - St30 - 
+10.0 : St8 - St9 - St3 - St7 - 
+12.0 : St14 - St3 - St9 - St7 - 
+10.0 : St8 - St9 - St3 - St7 - 
+12.0 : St9 - St3 - St30 - St7 - 
+11.0 : St9 - St30 - St3 - St7 - 
+10.0 : St8 - St9 - St3 - St7 - 
+11.0 : St37 - St8 - St3 - St7 - 
+11.0 : St8 - St3 - St9 - St7 - 
+10.0 : St8 - St9 - St3 - St7 - 
+21.0 : St9 - St3 - St7 - St22 - 
+20.0 : St22 - St3 - St7 - St9 - 
+18.0 : St22 - St9 - St7 - St3 - 
+14.0 : St22 - St9 - St3 - St7 - 
+10.0 : St8 - St9 - St3 - St7 - 
+11.0 : St28 - St30 - St8 - St7 - 
+10.0 : St8 - St30 - St28 - St7 - 
+10.0 : St8 - St9 - St28 - St7 - 
+10.0 : St8 - St9 - St28 - St7 - 
+15.0 : St8 - St9 - St22 - St7 - 
+10.0 : St8 - St9 - St28 - St7 - 
+11.0 : St37 - St28 - St9 - St7 - 
+11.0 : St28 - St9 - St8 - St7 - 
+10.0 : St8 - St9 - St28 - St7 - 
+7.0 : St8 - St9 - St28 - St29 - 
+10.0 : St8 - St9 - St28 - St7 - 
+10.0 : St8 - St28 - St29 - St7 - 
+10.0 : St8 - St28 - St29 - St7 - 
+13.0 : St28 - St29 - St7 - St30 - 
+12.0 : St28 - St30 - St7 - St29 - 
+11.0 : St29 - St28 - St30 - St7 - 
+11.0 : St29 - St28 - St8 - St7 - 
+10.0 : St8 - St28 - St29 - St7 - 
+20.0 : St8 - St28 - St7 - St22 - 
+18.0 : St8 - St22 - St7 - St28 - 
+16.0 : St8 - St22 - St28 - St7 - 
+10.0 : St8 - St28 - St29 - St7 - 
+11.0 : St37 - St28 - St8 - St7 - 
+12.0 : St28 - St29 - St8 - St7 - 
+11.0 : St29 - St28 - St8 - St7 - 
+10.0 : St8 - St28 - St29 - St7 - 
+9.0 : St14 - St28 - St29 - St8 - 
+8.0 : St8 - St28 - St29 - St14 - 
+7.0 : St14 - St8 - St28 - St29 - 
+7.0 : St14 - St8 - St28 - St29 - 
+9.0 : St14 - St28 - St8 - St9 - 
+8.0 : St14 - St28 - St9 - St8 - 
+7.0 : St8 - St9 - St28 - St14 - 
+9.0 : St14 - St28 - St29 - St8 - 
+8.0 : St8 - St28 - St29 - St14 - 
+7.0 : St14 - St8 - St28 - St29 - 
+8.0 : St14 - St28 - St8 - St30 - 
+7.0 : St8 - St30 - St28 - St14 - 
+9.0 : St14 - St28 - St29 - St8 - 
+8.0 : St8 - St28 - St29 - St14 - 
+7.0 : St14 - St8 - St28 - St29 - 
+14.0 : St14 - St28 - St8 - St22 - 
+13.0 : St22 - St8 - St28 - St14 - 
+9.0 : St14 - St28 - St29 - St8 - 
+8.0 : St8 - St28 - St29 - St14 - 
+7.0 : St14 - St8 - St28 - St29 - 
+10.0 : St14 - St28 - St8 - St7 - 
+9.0 : St14 - St28 - St29 - St8 - 
+8.0 : St8 - St28 - St29 - St14 - 
+7.0 : St14 - St8 - St28 - St29 - 
+6.0 : St14 - St28 - St29 - St37 - 
+6.0 : St14 - St28 - St29 - St37 - 
+15.0 : St14 - St28 - St37 - St22 - 
+13.0 : St14 - St28 - St22 - St37 - 
+6.0 : St14 - St28 - St29 - St37 - 
+12.0 : St14 - St29 - St37 - St30 - 
+11.0 : St14 - St37 - St29 - St30 - 
+10.0 : St14 - St30 - St29 - St37 - 
+6.0 : St14 - St28 - St29 - St37 - 
+9.0 : St14 - St28 - St29 - St30 - 
+8.0 : St14 - St28 - St30 - St29 - 
+6.0 : St14 - St28 - St29 - St37 - 
+10.0 : St37 - St28 - St29 - St8 - 
+9.0 : St37 - St29 - St28 - St8 - 
+8.0 : St37 - St8 - St28 - St29 - 
+7.0 : St37 - St28 - St29 - St14 - 
+6.0 : St37 - St29 - St28 - St14 - 
+10.0 : St14 - St28 - St29 - St9 - 
+9.0 : St9 - St28 - St29 - St14 - 
+8.0 : St14 - St9 - St28 - St29 - 
+6.0 : St14 - St28 - St29 - St37 - 
+11.0 : St22 - St9 - 
+11.0 : St22 - St3 - 
+11.0 : St22 - St9 - 
+10.0 : St22 - St30 - 
+10.0 : St22 - St30 - 
+9.0 : St30 - St3 - 
+10.0 : St22 - St30 - 
+9.0 : St30 - St28 - 
+10.0 : St22 - St30 - 
+10.0 : St30 - St37 - 
+10.0 : St22 - St30 - 
+10.0 : St30 - St37 - 
+10.0 : St22 - St30 - 
+11.0 : St22 - St8 - 
+10.0 : St22 - St30 - 
+9.0 : St30 - St29 - 
+10.0 : St22 - St30 - 
+10.0 : St22 - St37 - 
+10.0 : St22 - St30 - 
+11.0 : St22 - St29 - 
+10.0 : St22 - St30 - 
+9.0 : St30 - St29 - 
+10.0 : St22 - St30 - 
+10.0 : St30 - St9 - 
+9.0 : St9 - St30 - 
+10.0 : St22 - St30 - 
+11.0 : St22 - St3 - 
+10.0 : St22 - St30 - 
+10.0 : St30 - St9 - 
+9.0 : St9 - St30 - 
+10.0 : St22 - St30 - 
+9.0 : St30 - St29 - 
+10.0 : St22 - St30 - 
+11.0 : St22 - St28 - 
+10.0 : St22 - St30 - 
+10.0 : St22 - St37 - 
+10.0 : St22 - St30 - 
+13.0 : St22 - St7 - 
+10.0 : St22 - St30 - 
+11.0 : St22 - St8 - 
+10.0 : St22 - St30 - 
+9.0 : St30 - St8 - 
+10.0 : St22 - St30 - 
