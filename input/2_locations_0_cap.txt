@@ -1,0 +1,3 @@
+St1	St1	"12423-12425 Fallen Tower Ln, Austin, TX 78753"	30.395087	-97.655854	No	0
+St2	St2	"11711 Buckingham Rd, Austin, TX 78759, USA"	30.429852	-97.771788	No	0
+NEMP	NEMP	Northeast Metro Park	30.412779	-97.595299	No	-1
